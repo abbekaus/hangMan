@@ -4,7 +4,7 @@ Hangman
 Push a letter and try your luck!
 
 
-
+GITHUB WAS CORRECT -HE'S ALIVE
 
 
 
@@ -12,19 +12,19 @@ Push a letter and try your luck!
 
 
               ______ 
-              |/   | 
-              |    O
-              |	   |
-              |    /\
+              |/    
+              |    
+              |	   
+              |    
               |
           _________
-         /|       |
-        / |       |
-       /  |       |
-      /   |       |
+         /|       |                  Woooo I'm alive   
+        / |       |              \O/
+       /  |       |               | 
+      /   |       |               /\
 
 
-    G   I   T
+    G   I   T	H   U	B
    ___ ___ ___ ___ ___ ___
 
 List of guessed characters:
