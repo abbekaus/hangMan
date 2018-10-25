@@ -14,7 +14,7 @@ Push a letter and try your luck!
               ______ 
               |/   | 
               |    O
-              |
+              |	   |
               |
               |
           _________
@@ -33,3 +33,4 @@ E
 
 Wrong guesses:
 A
+E
