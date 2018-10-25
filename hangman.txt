@@ -30,6 +30,7 @@ Push a letter and try your luck!
 List of guessed characters:
 A
 E
+I
 
 Wrong guesses:
 A
