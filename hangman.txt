@@ -15,7 +15,7 @@ Push a letter and try your luck!
               |/   | 
               |    O
               |	   |
-              |	    \
+              |    /\
               |
           _________
          /|       |
@@ -38,3 +38,4 @@ Wrong guesses:
 A
 E
 S
+F
