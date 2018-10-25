@@ -24,7 +24,7 @@ Push a letter and try your luck!
       /   |       |
 
 
-        I   T
+    G   I   T
    ___ ___ ___ ___ ___ ___
 
 List of guessed characters:
