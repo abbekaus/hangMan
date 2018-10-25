@@ -33,6 +33,7 @@ E
 I
 S
 F
+T
 
 Wrong guesses:
 A
