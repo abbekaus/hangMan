@@ -35,6 +35,7 @@ S
 F
 T
 G
+COMPLETE WORD GUESS: GITHUB
 
 Wrong guesses:
 A
