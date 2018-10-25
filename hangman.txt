@@ -24,5 +24,8 @@ Push a letter and try your luck!
       /   |       |
 
 
-
+ 
    ___ ___ ___ ___ ___ ___
+
+List of guessed characters:
+A
